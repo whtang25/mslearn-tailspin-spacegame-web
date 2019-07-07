@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/whtang25/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/whtang25.mslearn-tailspin-spacegame-web%20(7)?branchName=master)](https://dev.azure.com/whtang25/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=8&branchName=master)
 
 # Contributing
 
